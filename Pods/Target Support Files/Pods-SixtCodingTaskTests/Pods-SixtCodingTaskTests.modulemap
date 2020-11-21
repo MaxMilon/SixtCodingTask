@@ -1,0 +1,6 @@
+framework module Pods_SixtCodingTaskTests {
+  umbrella header "Pods-SixtCodingTaskTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
